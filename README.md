@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Heitor Cortes</h1>
-<h3 align="center">A passionate student developer</h3>
+<h1 align="center">Hello 🌀, I'm Heitor Cortes 🌀</h1>
+<h3 align="center">🌀 A passionate tech student 🌀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heitorpcrl&label=Profile%20views&color=0e75b6&style=flat" alt="heitorpcrl" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heitorpcrl" alt="heitorpcrl" /></a> </p>
 
-- 🔭 I’m currently working on [RPyG-Faculdade](https://github.com/fshinkae/RPyG-faculdade)
+- 🌀 I’m currently working on [RPyG-Faculdade](https://github.com/fshinkae/RPyG-faculdade)
 
-- 🌱 I’m currently learning **JavaScript, SQL, Python.**
+- 🌀 I’m currently learning **JavaScript, SQL, Python.**
 
-- 📫 How to reach me **Heitorphantom@gmail.com**
+- 🌀How to reach me **Heitorphantom@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
