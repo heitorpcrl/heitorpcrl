@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heitorpcrl&show_icons=true&locale=en" alt="heitorpcrl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heitorpcrl&" alt="heitorpcrl" /></p>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=83349xyj769vzle9nfner4v79&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
