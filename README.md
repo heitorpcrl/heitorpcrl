@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heitorpcrl" alt="heitorpcrl" /></a> </p>
 
-- 🌀 I’m currently working on Mario-JS-Game.
+- 🌀 I’m currently working on (https://github.com/heitorpcrl/Mario-JS-Game).
 
 - 🌀 I’m currently learning **C, JavaScript, SQL, Python.**
 
