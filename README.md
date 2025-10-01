@@ -6,7 +6,7 @@
 
 - 🌀 I’m currently learning **TypeScript, JavaScript, MySQL, Python, React.**
 
-- 🌀How to reach me **Heitorphantom@gmail.com**
+- 🌀How to reach me **heitorphantom@gmail.com**
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
