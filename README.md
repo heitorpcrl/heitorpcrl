@@ -4,7 +4,7 @@
 
 - 📍 I’m currently working on **https://github.com/heitorpcrl/chronos-pomodoro-v2**
 
-- 📍 I’m currently learning **TypeScript, JavaScript, MySQL, Python, React**
+- 📍 I’m currently learning **TypeScript, JavaScript, MySQL, Postgre, Python, React**
 
 - 📍 How to reach me **heitorphantom@gmail.com**
 
