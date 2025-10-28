@@ -66,7 +66,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://tenor.com/pt-BR/view/kokushibou-upper-moon1-gif-27609450" />
+  <img height="200" src="https://media1.tenor.com/m/PAGeg0hzBc8AAAAC/kokushibou-upper-moon1.gif" />
 </div>
 
 
