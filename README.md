@@ -66,7 +66,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://static.wikia.nocookie.net/powerlisting/images/c/c9/Kokushibo_%28Kimetsu_no_Yaiba%29_-_Menacing_Presence.gif/revision/latest?cb=20230602150410" />
+  <img height="200" src="https://static.wikia.nocookie.net/powerlisting/images/c/c9/Kokushibo_%28Kimetsu_no_Yaiba%29_-_Menacing_Presence.gif" />
 </div>
 
 
